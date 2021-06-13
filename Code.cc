@@ -72,8 +72,5 @@ int main() {
     {
          printf("0");
     }
-
-    // for(scanf("%d",&n),i=n;i--;scanf("%d",a+i));
-    // for(b=1<<30,f=0;!f&&b;b>>=1)
     return 0;
 }
